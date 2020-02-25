@@ -1,0 +1,7 @@
+
+I noticed when i went into the developer tools while incognito mode that alot of the browser was "depreciated".
+I was also getting an error that "A Mutation Operation was attempted on a database that did not allow mutations."
+I also noticed that Home depot did not pop up on my history tab. 
+
+I think one would like to use this mode if they wished to not be "ad targeted" through cookies. 
+You could use this to test a website and see if it is still able to operate properly while viewing it in incognito/dark mode. 
